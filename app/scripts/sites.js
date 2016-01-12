@@ -45,7 +45,7 @@ window.sites = [{
   name: '常用编辑器/IDE',
   order: 3,
   items: [{
-    url: 'http://vim.org',
+    url: 'http://www.vim.org',
     favicon: 'http://www.vim.org/images/vim_shortcut.ico',
     name: 'Vim'
   }, {
